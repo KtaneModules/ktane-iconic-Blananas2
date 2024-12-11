@@ -13581,1761 +13581,1852 @@
       "y": 48,
       "sheet": 0
     },
-    "rotary encoder": {
-      "name": "Rotary Encoder",
-      "sortkey": "ROTARYENCODER",
-      "x": 20,
-      "y": 48,
-      "sheet": 0
-    },
     "frightened ghost movement": {
       "name": "Frightened Ghost Movement",
       "sortkey": "FRIGHTENEDGHOSTMOVEMENT",
-      "x": 21,
+      "x": 20,
       "y": 48,
       "sheet": 0
     },
     "haiku": {
       "name": "Haiku",
       "sortkey": "HAIKU",
-      "x": 22,
+      "x": 21,
       "y": 48,
       "sheet": 0
     },
     "s.e.t. theory": {
       "name": "S.E.T. Theory",
       "sortkey": "SETTHEORY",
-      "x": 23,
+      "x": 22,
       "y": 48,
       "sheet": 0
     },
     "unicode arrows": {
       "name": "Unicode Arrows",
       "sortkey": "UNICODEARROWS",
-      "x": 24,
+      "x": 23,
       "y": 48,
       "sheet": 0
     },
     "four elements": {
       "name": "Four Elements",
       "sortkey": "FOURELEMENTS",
-      "x": 25,
-      "y": 48,
-      "sheet": 0
-    },
-    "puzzling buttons": {
-      "name": "Puzzling Buttons",
-      "sortkey": "PUZZLINGBUTTONS",
-      "x": 26,
+      "x": 24,
       "y": 48,
       "sheet": 0
     },
     "green wires": {
       "name": "Green Wires",
       "sortkey": "GREENWIRES",
-      "x": 27,
+      "x": 25,
       "y": 48,
       "sheet": 0
     },
     "keystrokes": {
       "name": "Keystrokes",
       "sortkey": "KEYSTROKES",
-      "x": 28,
+      "x": 26,
       "y": 48,
       "sheet": 0
     },
     "death note": {
       "name": "Death Note",
       "sortkey": "DEATHNOTE",
-      "x": 29,
+      "x": 27,
       "y": 48,
       "sheet": 0
     },
     "solve shift": {
       "name": "Solve Shift",
       "sortkey": "SOLVESHIFT",
-      "x": 30,
+      "x": 28,
       "y": 48,
       "sheet": 0
     },
     "the fuse box": {
       "name": "The Fuse Box",
       "sortkey": "FUSEBOX",
-      "x": 31,
+      "x": 29,
       "y": 48,
       "sheet": 0
     },
     "who's on trunic": {
       "name": "Who's on Trunic",
       "sortkey": "WHOSONTRUNIC",
-      "x": 32,
+      "x": 30,
       "y": 48,
       "sheet": 0
     },
     "ultimate team": {
       "name": "Ultimate Team",
       "sortkey": "ULTIMATETEAM",
-      "x": 33,
+      "x": 31,
       "y": 48,
       "sheet": 0
     },
     "swish": {
       "name": "Swish",
       "sortkey": "SWISH",
-      "x": 34,
+      "x": 32,
       "y": 48,
       "sheet": 0
     },
     "air strikes": {
       "name": "Air Strikes",
       "sortkey": "AIRSTRIKES",
-      "x": 35,
+      "x": 33,
       "y": 48,
       "sheet": 0
     },
     "light grid": {
       "name": "Light Grid",
       "sortkey": "LIGHTGRID",
-      "x": 36,
+      "x": 34,
       "y": 48,
       "sheet": 0
     },
     "mask identification": {
       "name": "Mask Identification",
       "sortkey": "MASKIDENTIFICATION",
-      "x": 37,
+      "x": 35,
       "y": 48,
       "sheet": 0
     },
     "perspecticolored squares": {
       "name": "Perspecticolored Squares",
       "sortkey": "PERSPECTICOLOREDSQUARES",
-      "x": 38,
+      "x": 36,
       "y": 48,
       "sheet": 0
     },
     "technical keypad": {
       "name": "Technical Keypad",
       "sortkey": "TECHNICALKEYPAD",
-      "x": 39,
+      "x": 37,
       "y": 48,
       "sheet": 0
     },
     "the tea set": {
       "name": "The Tea Set",
       "sortkey": "TEASET",
-      "x": 0,
-      "y": 49,
+      "x": 38,
+      "y": 48,
       "sheet": 0
     },
     "crazy maze": {
       "name": "Crazy Maze",
       "sortkey": "CRAZYMAZE",
-      "x": 1,
-      "y": 49,
+      "x": 39,
+      "y": 48,
       "sheet": 0
     },
     "encrypted timezones": {
       "name": "Encrypted Timezones",
       "sortkey": "ENCRYPTEDTIMEZONES",
-      "x": 2,
+      "x": 0,
       "y": 49,
       "sheet": 0
     },
     "run-on sentence": {
       "name": "Run-On Sentence",
       "sortkey": "RUNONSENTENCE",
-      "x": 3,
+      "x": 1,
       "y": 49,
       "sheet": 0
     },
     "simultaneous simons": {
       "name": "Simultaneous Simons",
       "sortkey": "SIMULTANEOUSSIMONS",
-      "x": 4,
+      "x": 2,
       "y": 49,
       "sheet": 0
     },
     "crazy?": {
       "name": "Crazy?",
       "sortkey": "CRAZY",
-      "x": 5,
+      "x": 3,
       "y": 49,
       "sheet": 0
     },
     "letters and numbers": {
       "name": "Letters and Numbers",
       "sortkey": "LETTERSANDNUMBERS",
-      "x": 6,
+      "x": 4,
       "y": 49,
       "sheet": 0
     },
     "three sentence horror": {
       "name": "Three Sentence Horror",
       "sortkey": "THREESENTENCEHORROR",
-      "x": 7,
+      "x": 5,
       "y": 49,
       "sheet": 0
     },
     "blindfolded yahtzee": {
       "name": "Blindfolded Yahtzee",
       "sortkey": "BLINDFOLDEDYAHTZEE",
-      "x": 8,
+      "x": 6,
       "y": 49,
       "sheet": 0
     },
     "conditional maze": {
       "name": "Conditional Maze",
       "sortkey": "CONDITIONALMAZE",
-      "x": 9,
+      "x": 7,
       "y": 49,
       "sheet": 0
     },
     "the starting line": {
       "name": "The Starting Line",
       "sortkey": "STARTINGLINE",
-      "x": 10,
+      "x": 8,
       "y": 49,
       "sheet": 0
     },
     "caesar psycho": {
       "name": "Caesar Psycho",
       "sortkey": "CAESARPSYCHO",
-      "x": 11,
+      "x": 9,
       "y": 49,
       "sheet": 0
     },
     "backdoor keypad": {
       "name": "Backdoor Keypad",
       "sortkey": "BACKDOORKEYPAD",
-      "x": 12,
+      "x": 10,
       "y": 49,
       "sheet": 0
     },
     "new world": {
       "name": "New World",
       "sortkey": "NEWWORLD",
-      "x": 13,
+      "x": 11,
       "y": 49,
       "sheet": 0
     },
     "simon steps": {
       "name": "Simon Steps",
       "sortkey": "SIMONSTEPS",
-      "x": 14,
+      "x": 12,
       "y": 49,
       "sheet": 0
     },
     "3d chess": {
       "name": "3D Chess",
       "sortkey": "3DCHESS",
-      "x": 15,
+      "x": 13,
       "y": 49,
       "sheet": 0
     },
     "piece positioning": {
       "name": "Piece Positioning",
       "sortkey": "PIECEPOSITIONING",
-      "x": 16,
+      "x": 14,
       "y": 49,
       "sheet": 0
     },
     "needy pi": {
       "name": "Needy Pi",
       "sortkey": "NEEDYPI",
-      "x": 17,
+      "x": 15,
       "y": 49,
       "sheet": 0
     },
     "survey says": {
       "name": "Survey Says",
       "sortkey": "SURVEYSAYS",
-      "x": 18,
+      "x": 16,
       "y": 49,
       "sheet": 0
     },
     "papyrus tiles": {
       "name": "Papyrus Tiles",
       "sortkey": "PAPYRUSTILES",
-      "x": 19,
+      "x": 17,
       "y": 49,
       "sheet": 0
     },
     "bad bones": {
       "name": "Bad Bones",
       "sortkey": "BADBONES",
-      "x": 20,
+      "x": 18,
       "y": 49,
       "sheet": 0
     },
     "classical sense": {
       "name": "Classical Sense",
       "sortkey": "CLASSICALSENSE",
-      "x": 21,
+      "x": 19,
       "y": 49,
       "sheet": 0
     },
     "graph identification": {
       "name": "Graph Identification",
       "sortkey": "GRAPHIDENTIFICATION",
-      "x": 22,
+      "x": 20,
       "y": 49,
       "sheet": 0
     },
     "blackout": {
       "name": "Blackout",
       "sortkey": "BLACKOUT",
-      "x": 23,
+      "x": 21,
       "y": 49,
       "sheet": 0
     },
     "not blue arrows": {
       "name": "Not Blue Arrows",
       "sortkey": "NOTBLUEARROWS",
-      "x": 24,
+      "x": 22,
       "y": 49,
       "sheet": 0
     },
     "not green arrows": {
       "name": "Not Green Arrows",
       "sortkey": "NOTGREENARROWS",
-      "x": 25,
+      "x": 23,
       "y": 49,
       "sheet": 0
     },
     "not red arrows": {
       "name": "Not Red Arrows",
       "sortkey": "NOTREDARROWS",
-      "x": 26,
+      "x": 24,
       "y": 49,
       "sheet": 0
     },
     "not yellow arrows": {
       "name": "Not Yellow Arrows",
       "sortkey": "NOTYELLOWARROWS",
-      "x": 27,
+      "x": 25,
       "y": 49,
       "sheet": 0
     },
     "permutations": {
       "name": "Permutations",
       "sortkey": "PERMUTATIONS",
-      "x": 28,
+      "x": 26,
       "y": 49,
       "sheet": 0
     },
     "nonagon infinity": {
       "name": "Nonagon Infinity",
       "sortkey": "NONAGONINFINITY",
-      "x": 29,
+      "x": 27,
       "y": 49,
       "sheet": 0
     },
     "not not not": {
       "name": "Not Not Not",
       "sortkey": "NOTNOTNOT",
-      "x": 30,
+      "x": 28,
       "y": 49,
       "sheet": 0
     },
     "cruel qualities": {
       "name": "Cruel Qualities",
       "sortkey": "CRUELQUALITIES",
-      "x": 31,
+      "x": 29,
       "y": 49,
       "sheet": 0
     },
     "diamonds": {
       "name": "Diamonds",
       "sortkey": "DIAMONDS",
-      "x": 32,
+      "x": 30,
       "y": 49,
       "sheet": 0
     },
     "word count": {
       "name": "Word Count",
       "sortkey": "WORDCOUNT",
-      "x": 33,
+      "x": 31,
       "y": 49,
       "sheet": 0
     },
     "miscommunicated black arrows": {
       "name": "Miscommunicated Black Arrows",
       "sortkey": "MISCOMMUNICATEDBLACKARROWS",
-      "x": 34,
+      "x": 32,
       "y": 49,
       "sheet": 0
     },
     "canny maze": {
       "name": "Canny Maze",
       "sortkey": "CANNYMAZE",
-      "x": 35,
+      "x": 33,
       "y": 49,
       "sheet": 0
     },
     "id verification": {
       "name": "ID Verification",
       "sortkey": "IDVERIFICATION",
-      "x": 36,
+      "x": 34,
       "y": 49,
       "sheet": 0
     },
     "pentris sprint": {
       "name": "Pentris Sprint",
       "sortkey": "PENTRISSPRINT",
-      "x": 37,
+      "x": 35,
       "y": 49,
       "sheet": 0
     },
     "power button": {
       "name": "Power Button",
       "sortkey": "POWERBUTTON",
-      "x": 38,
+      "x": 36,
       "y": 49,
       "sheet": 0
     },
     "soil classification": {
       "name": "Soil Classification",
       "sortkey": "SOILCLASSIFICATION",
-      "x": 39,
+      "x": 37,
       "y": 49,
       "sheet": 0
     },
     "↻↺": {
       "name": "↻↺",
       "sortkey": "CLOCKCOUNTERCLOCK",
-      "x": 0,
-      "y": 50,
+      "x": 38,
+      "y": 49,
       "sheet": 0
     },
     "hickory dickory dock": {
       "name": "Hickory Dickory Dock",
       "sortkey": "HICKORYDICKORYDOCK",
-      "x": 1,
-      "y": 50,
+      "x": 39,
+      "y": 49,
       "sheet": 0
     },
     "bag search": {
       "name": "Bag Search",
       "sortkey": "BAGSEARCH",
-      "x": 2,
+      "x": 0,
       "y": 50,
       "sheet": 0
     },
     "jank hole": {
       "name": "Jank Hole",
       "sortkey": "JANKHOLE",
-      "x": 3,
+      "x": 1,
       "y": 50,
       "sheet": 0
     },
     "tangled wires": {
       "name": "Tangled Wires",
       "sortkey": "TANGLEDWIRES",
-      "x": 4,
+      "x": 2,
       "y": 50,
       "sheet": 0
     },
     "coincidence": {
       "name": "Coincidence",
       "sortkey": "COINCIDENCE",
-      "x": 5,
+      "x": 3,
       "y": 50,
       "sheet": 0
     },
     "revision helper": {
       "name": "Revision Helper",
       "sortkey": "REVISIONHELPER",
-      "x": 6,
+      "x": 4,
       "y": 50,
       "sheet": 0
     },
     "spectre maze": {
       "name": "Spectre Maze",
       "sortkey": "SPECTREMAZE",
-      "x": 7,
+      "x": 5,
       "y": 50,
       "sheet": 0
     },
     "encrypted memory": {
       "name": "Encrypted Memory",
       "sortkey": "ENCRYPTEDMEMORY",
-      "x": 8,
+      "x": 6,
       "y": 50,
       "sheet": 0
     },
     "mega man boss rush": {
       "name": "Mega Man Boss Rush",
       "sortkey": "MEGAMANBOSSRUSH",
-      "x": 9,
+      "x": 7,
       "y": 50,
       "sheet": 0
     },
     "hiragana": {
       "name": "Hiragana",
       "sortkey": "HIRAGANA",
-      "x": 10,
+      "x": 8,
       "y": 50,
       "sheet": 0
     },
     "katakana": {
       "name": "Katakana",
       "sortkey": "KATAKANA",
-      "x": 11,
+      "x": 9,
       "y": 50,
       "sheet": 0
     },
     "tac": {
       "name": "TAC",
       "sortkey": "TAC",
-      "x": 12,
+      "x": 10,
       "y": 50,
       "sheet": 0
     },
     "reflection": {
       "name": "Reflection",
       "sortkey": "REFLECTION",
-      "x": 13,
+      "x": 11,
       "y": 50,
       "sheet": 0
     },
     "stacked deck": {
       "name": "Stacked Deck",
       "sortkey": "STACKEDDECK",
-      "x": 14,
+      "x": 12,
       "y": 50,
       "sheet": 0
     },
     "a-button-ing mazes": {
       "name": "A-button-ing Mazes",
       "sortkey": "ABUTTONINGMAZES",
-      "x": 15,
+      "x": 13,
       "y": 50,
       "sheet": 0
     },
     "buttonplicated wires": {
       "name": "Buttonplicated Wires",
       "sortkey": "BUTTONPLICATEDWIRES",
-      "x": 16,
+      "x": 14,
       "y": 50,
       "sheet": 0
     },
     "keypass": {
       "name": "Keypass",
       "sortkey": "KEYPASS",
-      "x": 17,
+      "x": 15,
       "y": 50,
       "sheet": 0
     },
     "maze code": {
       "name": "Maze Code",
       "sortkey": "MAZECODE",
-      "x": 18,
+      "x": 16,
       "y": 50,
       "sheet": 0
     },
     ".--/---/..-.": {
       "name": ".--/---/..-.",
       "sortkey": "MORSEWHOSONFIRST",
-      "x": 19,
+      "x": 17,
       "y": 50,
       "sheet": 0
     },
     "sequential button": {
       "name": "Sequential Button",
       "sortkey": "SEQUENTIALBUTTON",
-      "x": 20,
+      "x": 18,
       "y": 50,
       "sheet": 0
     },
     "simon strands": {
       "name": "Simon Strands",
       "sortkey": "SIMONSTRANDS",
-      "x": 21,
+      "x": 19,
       "y": 50,
       "sheet": 0
     },
     "synapse says": {
       "name": "Synapse Says",
       "sortkey": "SYNAPSESAYS",
-      "x": 22,
+      "x": 20,
       "y": 50,
       "sheet": 0
     },
     "who's simon?": {
       "name": "Who's Simon?",
       "sortkey": "WHOSSIMON",
-      "x": 23,
+      "x": 21,
       "y": 50,
       "sheet": 0
     },
     "shiritori": {
       "name": "Shiritori",
       "sortkey": "SHIRITORI",
-      "x": 24,
+      "x": 22,
       "y": 50,
       "sheet": 0
     },
     "core encryption": {
       "name": "Core Encryption",
       "sortkey": "COREENCRYPTION",
-      "x": 25,
+      "x": 23,
       "y": 50,
       "sheet": 0
     },
     "monosweeper": {
       "name": "Monosweeper",
       "sortkey": "MONOSWEEPER",
-      "x": 26,
+      "x": 24,
       "y": 50,
       "sheet": 0
     },
     "thirty dollar module": {
       "name": "Thirty Dollar Module",
       "sortkey": "THIRTYDOLLARMODULE",
-      "x": 27,
+      "x": 25,
       "y": 50,
       "sheet": 0
     },
     "catch me if you can": {
       "name": "Catch Me if You Can",
       "sortkey": "CATCHMEIFYOUCAN",
-      "x": 28,
+      "x": 26,
       "y": 50,
       "sheet": 0
     },
     "winning line": {
       "name": "Winning Line",
       "sortkey": "WINNINGLINE",
-      "x": 29,
+      "x": 27,
       "y": 50,
       "sheet": 0
     },
     "the maroon button": {
       "name": "The Maroon Button",
       "sortkey": "MAROONBUTTON",
-      "x": 30,
+      "x": 28,
       "y": 50,
       "sheet": 0
     },
     "withered foxy": {
       "name": "Withered Foxy",
       "sortkey": "WITHEREDFOXY",
-      "x": 31,
+      "x": 29,
       "y": 50,
       "sheet": 0
     },
     "division": {
       "name": "Division",
       "sortkey": "DIVISION",
-      "x": 32,
+      "x": 30,
       "y": 50,
       "sheet": 0
     },
     "multiplication": {
       "name": "Multiplication",
       "sortkey": "MULTIPLICATION",
-      "x": 33,
+      "x": 31,
       "y": 50,
       "sheet": 0
     },
     "subtraction": {
       "name": "Subtraction",
       "sortkey": "SUBTRACTION",
-      "x": 34,
+      "x": 32,
       "y": 50,
       "sheet": 0
     },
     "scrambled periodic words": {
       "name": "Scrambled Periodic Words",
       "sortkey": "SCRAMBLEDPERIODICWORDS",
-      "x": 35,
+      "x": 33,
       "y": 50,
       "sheet": 0
     },
     "temporal sequence": {
       "name": "Temporal Sequence",
       "sortkey": "TEMPORALSEQUENCE",
-      "x": 36,
+      "x": 34,
       "y": 50,
       "sheet": 0
     },
     "advanced shapes and colors": {
       "name": "Advanced Shapes and Colors",
       "sortkey": "ADVANCEDSHAPESANDCOLORS",
-      "x": 37,
+      "x": 35,
       "y": 50,
       "sheet": 0
     },
     "module name": {
       "name": "Module Name",
       "sortkey": "MODULENAME",
-      "x": 38,
+      "x": 36,
       "y": 50,
       "sheet": 0
     },
     "turing machine nightmare": {
       "name": "Turing Machine Nightmare",
       "sortkey": "TURINGMACHINENIGHTMARE",
-      "x": 39,
+      "x": 37,
       "y": 50,
       "sheet": 0
     },
     "bronco trolleys": {
       "name": "Bronco Trolleys",
       "sortkey": "BRONCOTROLLEYS",
-      "x": 0,
-      "y": 51,
+      "x": 38,
+      "y": 50,
       "sheet": 0
     },
     "main page": {
       "name": "Main Page",
       "sortkey": "MAINPAGE",
-      "x": 1,
-      "y": 51,
+      "x": 39,
+      "y": 50,
       "sheet": 0
     },
     "sbemail songs": {
       "name": "Sbemail Songs",
       "sortkey": "SBEMAILSONGS",
-      "x": 2,
+      "x": 0,
       "y": 51,
       "sheet": 0
     },
     "sid hoffrenchman": {
       "name": "Sid Hoffrenchman",
       "sortkey": "SIDHOFFRENCHMAN",
-      "x": 3,
+      "x": 1,
       "y": 51,
       "sheet": 0
     },
     "strong mad talker": {
       "name": "Strong Mad Talker",
       "sortkey": "STRONGMADTALKER",
-      "x": 4,
+      "x": 2,
       "y": 51,
       "sheet": 0
     },
     "blinker": {
       "name": "Blinker",
       "sortkey": "BLINKER",
-      "x": 5,
+      "x": 3,
       "y": 51,
       "sheet": 0
     },
     "devilish calculations": {
       "name": "Devilish Calculations",
       "sortkey": "DEVILISHCALCULATIONS",
-      "x": 6,
+      "x": 4,
       "y": 51,
       "sheet": 0
     },
     "off keys": {
       "name": "Off Keys",
       "sortkey": "OFFKEYS",
-      "x": 7,
+      "x": 5,
       "y": 51,
       "sheet": 0
     },
     "planet x": {
       "name": "Planet X",
       "sortkey": "PLANETX",
-      "x": 8,
+      "x": 6,
       "y": 51,
       "sheet": 0
     },
     "f": {
       "name": "F",
       "sortkey": "F",
-      "x": 9,
+      "x": 7,
       "y": 51,
       "sheet": 0
     },
     "solar reorder": {
       "name": "Solar Reorder",
       "sortkey": "SOLARREORDER",
-      "x": 10,
+      "x": 8,
       "y": 51,
       "sheet": 0
     },
     "alarming": {
       "name": "Alarming",
       "sortkey": "ALARMING",
-      "x": 11,
+      "x": 9,
       "y": 51,
       "sheet": 0
     },
     "city planning": {
       "name": "City Planning",
       "sortkey": "CITYPLANNING",
-      "x": 12,
+      "x": 10,
       "y": 51,
       "sheet": 0
     },
     "mistranslated venting gas": {
       "name": "Mistranslated Venting Gas",
       "sortkey": "MISTRANSLATEDVENTINGGAS",
-      "x": 13,
+      "x": 11,
       "y": 51,
       "sheet": 0
     },
     "number cruncher": {
       "name": "Number Cruncher",
       "sortkey": "NUMBERCRUNCHER",
-      "x": 14,
+      "x": 12,
       "y": 51,
       "sheet": 0
     },
     "pattern recognition": {
       "name": "Pattern Recognition",
       "sortkey": "PATTERNRECOGNITION",
-      "x": 15,
+      "x": 13,
       "y": 51,
       "sheet": 0
     },
     "serial wires": {
       "name": "Serial Wires",
       "sortkey": "SERIALWIRES",
-      "x": 16,
+      "x": 14,
       "y": 51,
       "sheet": 0
     },
     "game of life 3d": {
       "name": "Game of Life 3D",
       "sortkey": "GAMEOFLIFE3D",
-      "x": 17,
+      "x": 15,
       "y": 51,
       "sheet": 0
     },
     "j": {
       "name": "J",
       "sortkey": "J",
-      "x": 18,
+      "x": 16,
       "y": 51,
       "sheet": 0
     },
     "nim": {
       "name": "Nim",
       "sortkey": "NIM",
-      "x": 19,
+      "x": 17,
       "y": 51,
       "sheet": 0
     },
     "tap fast": {
       "name": "Tap Fast",
       "sortkey": "TAPFAST",
-      "x": 20,
+      "x": 18,
       "y": 51,
       "sheet": 0
     },
     "spectator sport": {
       "name": "Spectator Sport",
       "sortkey": "SPECTATORSPORT",
-      "x": 21,
+      "x": 19,
       "y": 51,
       "sheet": 0
     },
     "clapping music": {
       "name": "Clapping Music",
       "sortkey": "CLAPPINGMUSIC",
-      "x": 22,
+      "x": 20,
       "y": 51,
       "sheet": 0
     },
     "n": {
       "name": "N",
       "sortkey": "N",
-      "x": 23,
+      "x": 21,
       "y": 51,
       "sheet": 0
     },
     "pou": {
       "name": "Pou",
       "sortkey": "POU",
-      "x": 24,
+      "x": 22,
       "y": 51,
       "sheet": 0
     },
     "flowchart madness": {
       "name": "Flowchart Madness",
       "sortkey": "FLOWCHARTMADNESS",
-      "x": 25,
+      "x": 23,
       "y": 51,
       "sheet": 0
     },
     "setting charges": {
       "name": "Setting Charges",
       "sortkey": "SETTINGCHARGES",
-      "x": 26,
+      "x": 24,
       "y": 51,
       "sheet": 0
     },
     "vigilant psycho": {
       "name": "Vigilant Psycho",
       "sortkey": "VIGILANTPSYCHO",
-      "x": 27,
+      "x": 25,
       "y": 51,
       "sheet": 0
     },
     "jumbled buttons": {
       "name": "Jumbled Buttons",
       "sortkey": "JUMBLEDBUTTONS",
-      "x": 28,
+      "x": 26,
       "y": 51,
       "sheet": 0
     },
     "switching buttons": {
       "name": "Switching Buttons",
       "sortkey": "SWITCHINGBUTTONS",
-      "x": 29,
+      "x": 27,
       "y": 51,
       "sheet": 0
     },
     "q": {
       "name": "Q",
       "sortkey": "Q",
-      "x": 30,
+      "x": 28,
       "y": 51,
       "sheet": 0
     },
     "white elephant": {
       "name": "White Elephant",
       "sortkey": "WHITEELEPHANT",
-      "x": 31,
+      "x": 29,
       "y": 51,
       "sheet": 0
     },
     "the teardrop": {
       "name": "The Teardrop",
       "sortkey": "TEARDROP",
-      "x": 32,
+      "x": 30,
       "y": 51,
       "sheet": 0
     },
     "encoloryption": {
       "name": "Encoloryption",
       "sortkey": "ENCOLORYPTION",
-      "x": 33,
+      "x": 31,
       "y": 51,
       "sheet": 0
     },
     "emoji": {
       "name": "Emoji",
       "sortkey": "EMOJI",
-      "x": 34,
+      "x": 32,
       "y": 51,
       "sheet": 0
     },
     "soda": {
       "name": "Soda",
       "sortkey": "SODA",
-      "x": 35,
+      "x": 33,
       "y": 51,
       "sheet": 0
     },
     "repseq": {
       "name": "REPSEQ",
       "sortkey": "REPSEQ",
-      "x": 36,
+      "x": 34,
       "y": 51,
       "sheet": 0
     },
     "ill morse": {
       "name": "Ill Morse",
       "sortkey": "ILLMORSE",
-      "x": 37,
+      "x": 35,
       "y": 51,
       "sheet": 0
     },
     "not adjacent letters": {
       "name": "Not Adjacent Letters",
       "sortkey": "NOTADJACENTLETTERS",
-      "x": 38,
+      "x": 36,
       "y": 51,
       "sheet": 0
     },
     "mathemetallics": {
       "name": "Mathemetallics",
       "sortkey": "MATHEMETALLICS",
-      "x": 39,
+      "x": 37,
       "y": 51,
       "sheet": 0
     },
     "labyrinth madness": {
       "name": "Labyrinth Madness",
       "sortkey": "LABYRINTHMADNESS",
-      "x": 0,
-      "y": 52,
+      "x": 38,
+      "y": 51,
       "sheet": 0
     },
     "chipping triangles": {
       "name": "Chipping Triangles",
       "sortkey": "CHIPPINGTRIANGLES",
-      "x": 1,
-      "y": 52,
+      "x": 39,
+      "y": 51,
       "sheet": 0
     },
     "puppet": {
       "name": "Puppet",
       "sortkey": "PUPPET",
-      "x": 2,
+      "x": 0,
       "y": 52,
       "sheet": 0
     },
     "ducks": {
       "name": "Ducks",
       "sortkey": "DUCKS",
-      "x": 3,
+      "x": 1,
       "y": 52,
       "sheet": 0
     },
     "cryptid": {
       "name": "Cryptid",
       "sortkey": "CRYPTID",
-      "x": 4,
+      "x": 2,
       "y": 52,
       "sheet": 0
     },
     "yippee": {
       "name": "Yippee",
       "sortkey": "YIPPEE",
-      "x": 5,
+      "x": 3,
       "y": 52,
       "sheet": 0
     },
     "shipping triangles": {
       "name": "Shipping Triangles",
       "sortkey": "SHIPPINGTRIANGLES",
-      "x": 6,
+      "x": 4,
       "y": 52,
       "sheet": 0
     },
     "the tissue box™": {
       "name": "The Tissue Box™",
       "sortkey": "TISSUEBOX",
-      "x": 7,
+      "x": 5,
       "y": 52,
       "sheet": 0
     },
     "facets & logic": {
       "name": "Facets & Logic",
       "sortkey": "FACETSLOGIC",
-      "x": 8,
+      "x": 6,
       "y": 52,
       "sheet": 0
     },
     "rhythm maze": {
       "name": "Rhythm Maze",
       "sortkey": "RHYTHMMAZE",
-      "x": 9,
+      "x": 7,
       "y": 52,
       "sheet": 0
     },
     "rift roulette": {
       "name": "Rift Roulette",
       "sortkey": "RIFTROULETTE",
-      "x": 10,
+      "x": 8,
       "y": 52,
       "sheet": 0
     },
     "snatcher's map": {
       "name": "Snatcher's Map",
       "sortkey": "SNATCHER'SMAP",
-      "x": 11,
+      "x": 9,
       "y": 52,
       "sheet": 0
     },
     "symmetry shuffle": {
       "name": "Symmetry Shuffle",
       "sortkey": "SYMMETRYSHUFFLE",
-      "x": 12,
+      "x": 10,
       "y": 52,
       "sheet": 0
     },
     "the multiverse hotline": {
       "name": "The Multiverse Hotline",
       "sortkey": "MULTIVERSEHOTLINE",
-      "x": 13,
+      "x": 11,
       "y": 52,
       "sheet": 0
     },
     "limbo keys": {
       "name": "Limbo Keys",
       "sortkey": "LIMBOKEYS",
-      "x": 14,
+      "x": 12,
       "y": 52,
       "sheet": 0
     },
     "supermarket scramble": {
       "name": "Supermarket Scramble",
       "sortkey": "SUPERMARKETSCRAMBLE",
-      "x": 15,
+      "x": 13,
       "y": 52,
       "sheet": 0
     },
     "password hexaterminals": {
       "name": "Password Hexaterminals",
       "sortkey": "PASSWORDHEXATERMINALS",
-      "x": 16,
+      "x": 14,
       "y": 52,
       "sheet": 0
     },
     "setup wizard": {
       "name": "Setup Wizard",
       "sortkey": "SETUPWIZARD",
-      "x": 17,
+      "x": 15,
       "y": 52,
       "sheet": 0
     },
     "binary squares": {
       "name": "Binary Squares",
       "sortkey": "BINARYSQUARES",
-      "x": 18,
+      "x": 16,
       "y": 52,
       "sheet": 0
     },
     "normal probability": {
       "name": "Normal Probability",
       "sortkey": "NORMALPROBABILITY",
-      "x": 19,
+      "x": 17,
       "y": 52,
       "sheet": 0
     },
     "karnaugh map": {
       "name": "Karnaugh Map",
       "sortkey": "KARNAUGHMAP",
-      "x": 20,
+      "x": 18,
       "y": 52,
       "sheet": 0
     },
     "cursed": {
       "name": "Cursed",
       "sortkey": "CURSED",
-      "x": 21,
+      "x": 19,
       "y": 52,
       "sheet": 0
     },
     "gourmet hamburger": {
       "name": "Gourmet Hamburger",
       "sortkey": "GOURMETHAMBURGER",
-      "x": 22,
+      "x": 20,
       "y": 52,
       "sheet": 0
     },
     "sat nav": {
       "name": "Sat Nav",
       "sortkey": "SATNAV",
-      "x": 23,
+      "x": 21,
       "y": 52,
       "sheet": 0
     },
     "worse code": {
       "name": "Worse Code",
       "sortkey": "WORSECODE",
-      "x": 24,
+      "x": 22,
       "y": 52,
       "sheet": 0
     },
     "yellow face": {
       "name": "Yellow Face",
       "sortkey": "YELLOWFACE",
-      "x": 25,
+      "x": 23,
       "y": 52,
       "sheet": 0
     },
     "flamin' finger": {
       "name": "Flamin' Finger",
       "sortkey": "FLAMINFINGER",
-      "x": 26,
+      "x": 24,
       "y": 52,
       "sheet": 0
     },
     "foxed freshly": {
       "name": "Foxed Freshly",
       "sortkey": "FOXEDFRESHLY",
-      "x": 27,
+      "x": 25,
       "y": 52,
       "sheet": 0
     },
     "color-symbolic interpretation module": {
       "name": "Color-Symbolic Interpretation Module",
       "sortkey": "COLORSYMBOLICINTERPRETATIONMODULE",
-      "x": 28,
+      "x": 26,
       "y": 52,
       "sheet": 0
     },
     "not saimoe maze": {
       "name": "Not Saimoe Maze",
       "sortkey": "NOTSAIMOEMAZE",
-      "x": 29,
+      "x": 27,
       "y": 52,
       "sheet": 0
     },
     "lying buttons": {
       "name": "Lying Buttons",
       "sortkey": "LYINGBUTTONS",
-      "x": 30,
+      "x": 28,
       "y": 52,
       "sheet": 0
     },
     "polynomial solver": {
       "name": "Polynomial Solver",
       "sortkey": "POLYNOMIALSOLVER",
-      "x": 31,
+      "x": 29,
       "y": 52,
       "sheet": 0
     },
     "cartiac arrest": {
       "name": "Cartiac Arrest",
       "sortkey": "CARTIACARREST",
-      "x": 32,
+      "x": 30,
       "y": 52,
       "sheet": 0
     },
     "base conversion": {
       "name": "Base Conversion",
       "sortkey": "BASECONVERSION",
-      "x": 33,
+      "x": 31,
       "y": 52,
       "sheet": 0
     },
     "swippy swappy": {
       "name": "Swippy Swappy",
       "sortkey": "SWIPPYSWAPPY",
-      "x": 34,
+      "x": 32,
       "y": 52,
       "sheet": 0
     },
     "clearance code": {
       "name": "Clearance Code",
       "sortkey": "CLEARANCECODE",
-      "x": 35,
+      "x": 33,
       "y": 52,
       "sheet": 0
     },
     "dyscalculator": {
       "name": "Dyscalculator",
       "sortkey": "DYSCALCULATOR",
-      "x": 36,
+      "x": 34,
       "y": 52,
       "sheet": 0
     },
     "cerulean maze": {
       "name": "Cerulean Maze",
       "sortkey": "CERULEANMAZE",
-      "x": 37,
+      "x": 35,
       "y": 52,
       "sheet": 0
     },
     "tyler verifies": {
       "name": "Tyler Verifies",
       "sortkey": "TYLERVERIFIES",
-      "x": 38,
+      "x": 36,
       "y": 52,
       "sheet": 0
     },
     "logic circuits": {
       "name": "Logic Circuits",
       "sortkey": "LOGICCIRCUITS",
-      "x": 39,
+      "x": 37,
       "y": 52,
       "sheet": 0
     },
     "smash, marry, kill": {
       "name": "Smash, Marry, Kill",
       "sortkey": "SMASHMARRYKILL",
-      "x": 0,
-      "y": 53,
+      "x": 38,
+      "y": 52,
       "sheet": 0
     },
     "word encryption": {
       "name": "Word Encryption",
       "sortkey": "WORDENCRYPTION",
-      "x": 1,
-      "y": 53,
+      "x": 39,
+      "y": 52,
       "sheet": 0
     },
     "ball dial": {
       "name": "Ball Dial",
       "sortkey": "BALLDIAL",
-      "x": 2,
+      "x": 0,
       "y": 53,
       "sheet": 0
     },
     "curly wires": {
       "name": "Curly Wires",
       "sortkey": "CURLYWIRES",
-      "x": 3,
+      "x": 1,
       "y": 53,
       "sheet": 0
     },
     "four corners": {
       "name": "Four Corners",
       "sortkey": "FOURCORNERS",
-      "x": 4,
+      "x": 2,
       "y": 53,
       "sheet": 0
     },
     "q & a": {
       "name": "Q & A",
       "sortkey": "QA",
-      "x": 5,
+      "x": 3,
       "y": 53,
       "sheet": 0
     },
     "quadrecta": {
       "name": "Quadrecta",
       "sortkey": "QUADRECTA",
-      "x": 6,
+      "x": 4,
       "y": 53,
       "sheet": 0
     },
     "some buttons": {
       "name": "Some Buttons",
       "sortkey": "SOMEBUTTONS",
-      "x": 7,
+      "x": 5,
       "y": 53,
       "sheet": 0
     },
     "alcoholic rampage": {
       "name": "Alcoholic Rampage",
       "sortkey": "ALCOHOLICRAMPAGE",
-      "x": 8,
+      "x": 6,
       "y": 53,
       "sheet": 0
     },
     "not the binary light": {
       "name": "Not The Binary Light",
       "sortkey": "NOTTHEBINARYLIGHT",
-      "x": 9,
+      "x": 7,
       "y": 53,
       "sheet": 0
     },
     "not the curious light": {
       "name": "Not The Curious Light",
       "sortkey": "NOTTHECURIOUSLIGHT",
-      "x": 10,
+      "x": 8,
       "y": 53,
       "sheet": 0
     },
     "not the psychic light": {
       "name": "Not The Psychic Light",
       "sortkey": "NOTTHEPSYCHICLIGHT",
-      "x": 11,
+      "x": 9,
       "y": 53,
       "sheet": 0
     },
     "the binary light": {
       "name": "The Binary Light",
       "sortkey": "BINARYLIGHT",
-      "x": 12,
+      "x": 10,
       "y": 53,
       "sheet": 0
     },
     "the curious light": {
       "name": "The Curious Light",
       "sortkey": "CURIOUSLIGHT",
-      "x": 13,
+      "x": 11,
       "y": 53,
       "sheet": 0
     },
     "the light": {
       "name": "The Light",
       "sortkey": "LIGHT",
-      "x": 14,
+      "x": 12,
       "y": 53,
       "sheet": 0
     },
     "the psychic light": {
       "name": "The Psychic Light",
       "sortkey": "PSYCHICLIGHT",
-      "x": 15,
+      "x": 13,
       "y": 53,
       "sheet": 0
     },
     "breakers": {
       "name": "Breakers",
       "sortkey": "BREAKERS",
-      "x": 16,
+      "x": 14,
       "y": 53,
       "sheet": 0
     },
     "bengo talk": {
       "name": "Bengo Talk",
       "sortkey": "BENGOTALK",
-      "x": 17,
+      "x": 15,
       "y": 53,
       "sheet": 0
     },
     "indices maxmius": {
       "name": "Indices Maxmius",
       "sortkey": "INDICESMAXMIUS",
-      "x": 18,
+      "x": 16,
       "y": 53,
       "sheet": 0
     },
     "forgetful grid": {
       "name": "Forgetful Grid",
       "sortkey": "FORGETFULGRID",
-      "x": 19,
+      "x": 17,
       "y": 53,
       "sheet": 0
     },
     "twisty wire hexaterminals": {
       "name": "Twisty Wire Hexaterminals",
       "sortkey": "TWISTYWIREHEXATERMINALS",
-      "x": 20,
+      "x": 18,
       "y": 53,
       "sheet": 0
     },
     "color blindness": {
       "name": "Color Blindness",
       "sortkey": "COLORBLINDNESS",
-      "x": 21,
+      "x": 19,
       "y": 53,
       "sheet": 0
     },
     "meowmorse": {
       "name": "Meowmorse",
       "sortkey": "MEOWMORSE",
-      "x": 22,
+      "x": 20,
       "y": 53,
       "sheet": 0
     },
     "chronos": {
       "name": "Chronos",
       "sortkey": "CHRONOS",
-      "x": 23,
+      "x": 21,
       "y": 53,
       "sheet": 0
     },
     "malfunctioning rgb logic": {
       "name": "Malfunctioning RGB Logic",
       "sortkey": "MALFUNCTIONINGRGBLOGIC",
-      "x": 24,
+      "x": 22,
       "y": 53,
       "sheet": 0
     },
     "scattershot": {
       "name": "Scattershot",
       "sortkey": "SCATTERSHOT",
-      "x": 25,
+      "x": 23,
       "y": 53,
       "sheet": 0
     },
     "withered bonnie": {
       "name": "Withered Bonnie",
       "sortkey": "WITHEREDBONNIE",
-      "x": 26,
+      "x": 24,
       "y": 53,
       "sheet": 0
     },
     "busted password": {
       "name": "Busted Password",
       "sortkey": "BUSTEDPASSWORD",
-      "x": 27,
+      "x": 25,
       "y": 53,
       "sheet": 0
     },
     "copper-9": {
       "name": "Copper-9",
       "sortkey": "COPPER9",
-      "x": 28,
+      "x": 26,
       "y": 53,
       "sheet": 0
     },
     "triskaideka": {
       "name": "Triskaideka",
       "sortkey": "TRISKAIDEKA",
-      "x": 29,
+      "x": 27,
       "y": 53,
       "sheet": 0
     },
     "cutting order": {
       "name": "Cutting Order",
       "sortkey": "CUTTINGORDER",
-      "x": 30,
+      "x": 28,
       "y": 53,
       "sheet": 0
     },
     "meet your maker": {
       "name": "Meet Your Maker",
       "sortkey": "MEETYOURMAKER",
-      "x": 31,
+      "x": 29,
       "y": 53,
       "sheet": 0
     },
     "grimm": {
       "name": "Grimm",
       "sortkey": "GRIMM",
-      "x": 32,
+      "x": 30,
       "y": 53,
       "sheet": 0
     },
     "marmite": {
       "name": "Marmite",
       "sortkey": "MARMITE",
-      "x": 33,
+      "x": 31,
       "y": 53,
       "sheet": 0
     },
     "purgatory's name list": {
       "name": "Purgatory's Name List",
       "sortkey": "PURGATORYSNAMELIST",
-      "x": 34,
+      "x": 32,
       "y": 53,
       "sheet": 0
     },
     "voltaic morse": {
       "name": "Voltaic Morse",
       "sortkey": "VOLTAICMORSE",
-      "x": 35,
+      "x": 33,
       "y": 53,
       "sheet": 0
     },
     "uncanny maze": {
       "name": "Uncanny Maze",
       "sortkey": "UNCANNYMAZE",
-      "x": 36,
+      "x": 34,
       "y": 53,
       "sheet": 0
     },
     "rgb mixing": {
       "name": "RGB Mixing",
       "sortkey": "RGBMIXING",
-      "x": 37,
+      "x": 35,
       "y": 53,
       "sheet": 0
     },
     "delumination": {
       "name": "Delumination",
       "sortkey": "DELUMINATION",
-      "x": 38,
+      "x": 36,
       "y": 53,
       "sheet": 0
     },
     "mixometer": {
       "name": "Mixometer",
       "sortkey": "MIXOMETER",
-      "x": 39,
+      "x": 37,
       "y": 53,
       "sheet": 0
     },
     "war": {
       "name": "WAR",
       "sortkey": "WAR",
-      "x": 0,
-      "y": 54,
+      "x": 38,
+      "y": 53,
       "sheet": 0
     },
     "sickening maze": {
       "name": "Sickening Maze",
       "sortkey": "SICKENINGMAZE",
-      "x": 1,
-      "y": 54,
+      "x": 39,
+      "y": 53,
       "sheet": 0
     },
     "suffering maze": {
       "name": "Suffering Maze",
       "sortkey": "SUFFERINGMAZE",
-      "x": 2,
+      "x": 0,
       "y": 54,
       "sheet": 0
     },
     "memory match": {
       "name": "Memory Match",
       "sortkey": "MEMORYMATCH",
-      "x": 3,
+      "x": 1,
       "y": 54,
       "sheet": 0
     },
     "not laundry": {
       "name": "Not Laundry",
       "sortkey": "NOTLAUNDRY",
-      "x": 4,
+      "x": 2,
       "y": 54,
       "sheet": 0
     },
     "d": {
       "name": "D",
       "sortkey": "D",
-      "x": 5,
+      "x": 3,
       "y": 54,
       "sheet": 0
     },
     "worse venn diagram": {
       "name": "Worse Venn Diagram",
       "sortkey": "WORSEVENNDIAGRAM",
-      "x": 6,
+      "x": 4,
       "y": 54,
       "sheet": 0
     },
     "12trap": {
       "name": "12trap",
       "sortkey": "12TRAP",
-      "x": 7,
+      "x": 5,
       "y": 54,
       "sheet": 0
     },
     "the kill switch": {
       "name": "The Kill Switch",
       "sortkey": "KILLSWITCH",
-      "x": 8,
+      "x": 6,
       "y": 54,
       "sheet": 0
     },
     "wire sequence sequence": {
       "name": "Wire Sequence Sequence",
       "sortkey": "WIRESEQUENCESEQUENCE",
-      "x": 9,
+      "x": 7,
       "y": 54,
       "sheet": 0
     },
     "needy customs": {
       "name": "Needy Customs",
       "sortkey": "NEEDYCUSTOMS",
-      "x": 10,
+      "x": 8,
       "y": 54,
       "sheet": 0
     },
     "not karnaugh map": {
       "name": "Not Karnaugh Map",
       "sortkey": "NOTKARNAUGHMAP",
-      "x": 11,
+      "x": 9,
       "y": 54,
       "sheet": 0
     },
     "mission identification": {
       "name": "Mission Identification",
       "sortkey": "MISSIONIDENTIFICATION",
-      "x": 12,
+      "x": 10,
       "y": 54,
       "sheet": 0
     },
     "port check": {
       "name": "Port Check",
       "sortkey": "PORTCHECK",
-      "x": 13,
+      "x": 11,
       "y": 54,
       "sheet": 0
     },
     "loop": {
       "name": "Loop",
       "sortkey": "LOOP",
-      "x": 14,
+      "x": 12,
       "y": 54,
       "sheet": 0
     },
     "spongebob patrick squidward sandy": {
       "name": "Spongebob Patrick Squidward Sandy",
       "sortkey": "SPONGEBOBPATRICKSQUIDWARDSANDY",
-      "x": 15,
+      "x": 13,
       "y": 54,
       "sheet": 0
     },
     "chromaswapper": {
       "name": "Chromaswapper",
       "sortkey": "CHROMASWAPPER",
-      "x": 16,
+      "x": 14,
       "y": 54,
       "sheet": 0
     },
     "fit in!": {
       "name": "fit IN!",
       "sortkey": "FITIN",
-      "x": 17,
+      "x": 15,
       "y": 54,
       "sheet": 0
     },
     "red square": {
       "name": "Red Square",
       "sortkey": "REDSQUARE",
-      "x": 18,
+      "x": 16,
       "y": 54,
       "sheet": 0
     },
     "bar charts": {
       "name": "Bar Charts",
       "sortkey": "BARCHARTS",
-      "x": 19,
+      "x": 17,
       "y": 54,
       "sheet": 0
     },
     "maas cipher": {
       "name": "Maas Cipher",
       "sortkey": "MAAS CIPHER",
-      "x": 20,
+      "x": 18,
       "y": 54,
       "sheet": 0
     },
     "u": {
       "name": "U",
       "sortkey": "U",
-      "x": 21,
+      "x": 19,
       "y": 54,
       "sheet": 0
     },
     "gerrymandering": {
       "name": "Gerrymandering",
       "sortkey": "GERRYMANDERING",
-      "x": 22,
+      "x": 20,
       "y": 54,
       "sheet": 0
     },
     "temperature regulation": {
       "name": "Temperature Regulation",
       "sortkey": "TEMPERATUREREGULATION",
-      "x": 23,
+      "x": 21,
       "y": 54,
       "sheet": 0
     },
     "kuro": {
       "name": "Kuro",
       "sortkey": "KURO",
-      "x": 24,
+      "x": 22,
       "y": 54,
       "sheet": 0
     },
     "suits and colours": {
       "name": "Suits and Colours",
       "sortkey": "SUITSANDCOLOURS",
-      "x": 25,
+      "x": 23,
       "y": 54,
       "sheet": 0
     },
     "odd wall out": {
       "name": "Odd Wall Out",
       "sortkey": "ODDWALLOUT",
-      "x": 26,
+      "x": 24,
       "y": 54,
       "sheet": 0
     },
     "rusted morsematics": {
       "name": "Rusted Morsematics",
       "sortkey": "RUSTED MORSEMATICS",
-      "x": 27,
+      "x": 25,
       "y": 54,
       "sheet": 0
     },
     "eye sees all": {
       "name": "Eye Sees All",
       "sortkey": "EYESEESALL",
-      "x": 28,
+      "x": 26,
       "y": 54,
       "sheet": 0
     },
     "foaboru": {
       "name": "Foaboru",
       "sortkey": "FOABORU",
-      "x": 29,
+      "x": 27,
       "y": 54,
       "sheet": 0
     },
     "housecleaning": {
       "name": "Housecleaning",
       "sortkey": "HOUSECLEANING",
+      "x": 28,
+      "y": 54,
+      "sheet": 0
+    },
+    "poisoned goblets": {
+      "name": "Poisoned Goblets",
+      "sortkey": "POISONEDGOBLETS",
+      "x": 29,
+      "y": 54,
+      "sheet": 0
+    },
+    "yet another keypad": {
+      "name": "Yet Another Keypad",
+      "sortkey": "YETANOTHERKEYPAD",
       "x": 30,
       "y": 54,
+      "sheet": 0
+    },
+    "among the colors": {
+      "name": "Among the Colors",
+      "sortkey": "AMONGTHECOLORS",
+      "x": 31,
+      "y": 54,
+      "sheet": 0
+    },
+    "symbol pad": {
+      "name": "Symbol Pad",
+      "sortkey": "SYMBOLPAD",
+      "x": 32,
+      "y": 54,
+      "sheet": 0
+    },
+    "quadruple simpleton squared": {
+      "name": "Quadruple Simpleton Squared",
+      "sortkey": "QUADRUPLESIMPLETONSQUARED",
+      "x": 33,
+      "y": 54,
+      "sheet": 0
+    },
+    "answer smash": {
+      "name": "Answer Smash",
+      "sortkey": "ANSWERSMASH",
+      "x": 34,
+      "y": 54,
+      "sheet": 0
+    },
+    "diversineedy": {
+      "name": "Diversineedy",
+      "sortkey": "DIVERSINEEDY",
+      "x": 35,
+      "y": 54,
+      "sheet": 0
+    },
+    "swapsies": {
+      "name": "Swapsies",
+      "sortkey": "SWAPSIES",
+      "x": 36,
+      "y": 54,
+      "sheet": 0
+    },
+    "simon's sums": {
+      "name": "Simon's Sums",
+      "sortkey": "SIMON'SSUMS",
+      "x": 37,
+      "y": 54,
+      "sheet": 0
+    },
+    "a-90": {
+      "name": "A-90",
+      "sortkey": "A90",
+      "x": 38,
+      "y": 54,
+      "sheet": 0
+    },
+    "alpha-meta-cal order": {
+      "name": "Alpha-meta-cal Order",
+      "sortkey": "ALPHAMETACALORDER",
+      "x": 39,
+      "y": 54,
+      "sheet": 0
+    },
+    "say shells": {
+      "name": "Say Shells",
+      "sortkey": "SAYSHELLS",
+      "x": 0,
+      "y": 55,
+      "sheet": 0
+    },
+    "red switches": {
+      "name": "Red Switches",
+      "sortkey": "REDSWITCHES",
+      "x": 1,
+      "y": 55,
+      "sheet": 0
+    },
+    "projective set": {
+      "name": "Projective Set",
+      "sortkey": "PROJECTIVESET",
+      "x": 2,
+      "y": 55,
+      "sheet": 0
+    },
+    "love buttons": {
+      "name": "Love Buttons",
+      "sortkey": "LOVEBUTTONS",
+      "x": 3,
+      "y": 55,
       "sheet": 0
     }
   }
